@@ -13,3 +13,18 @@ The system integrates:
 - Coqui TTS for voice responses
 
 - Chatbot interface powered by Django + SQL backend
+
+Click below to view the platform in action:
+
+
+
+This project analyzes water quality parameters of lakes and predicts pollution levels using machine learning.
+The interface supports:
+
+Lake search
+
+Pollution insights
+
+Text + Voice query support
+
+AI-powered responses from the chatbot
