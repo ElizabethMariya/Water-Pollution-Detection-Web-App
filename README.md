@@ -14,8 +14,6 @@ The system integrates:
 
 - Chatbot interface powered by Django + SQL backend
 
-Click below to view the platform in action:
-
 
 
 This project analyzes water quality parameters of lakes and predicts pollution levels using machine learning.
